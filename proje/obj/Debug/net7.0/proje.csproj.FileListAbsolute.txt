@@ -1,0 +1,14 @@
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.AssemblyInfoInputs.cache
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.AssemblyInfo.cs
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.csproj.CoreCompileInputs.cache
+/Users/seymayavuz/Projects/proje/proje/bin/Debug/net7.0/proje
+/Users/seymayavuz/Projects/proje/proje/bin/Debug/net7.0/proje.deps.json
+/Users/seymayavuz/Projects/proje/proje/bin/Debug/net7.0/proje.runtimeconfig.json
+/Users/seymayavuz/Projects/proje/proje/bin/Debug/net7.0/proje.dll
+/Users/seymayavuz/Projects/proje/proje/bin/Debug/net7.0/proje.pdb
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.dll
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/refint/proje.dll
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.pdb
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/proje.genruntimeconfig.cache
+/Users/seymayavuz/Projects/proje/proje/obj/Debug/net7.0/ref/proje.dll
